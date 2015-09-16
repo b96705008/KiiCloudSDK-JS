@@ -26,9 +26,7 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "coffee-script": "1.6.3",
-    "node-jquery-xhr": "^2.1.3-a",
-    "phantomjs": "1.9.1-0"
+    "node-jquery-xhr": "^2.1.3-a"
   },
   "preferGlobal": true
 }
